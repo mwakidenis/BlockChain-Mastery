@@ -10,6 +10,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 [![Last Commit](https://img.shields.io/github/last-commit/mwakidenis/BlockChain-Mastery?style=for-the-badge&logo=github)](https://github.com/mwakidenis/BlockChain-Mastery/commits/main)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow?style=for-the-badge)](https://wa.me/254798750585)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mwakidenis.BlockChain-Mastery)
 [![GitHub followers](https://img.shields.io/github/followers/mwakidenis?style=social)](https://github.com/mwakidenis)
